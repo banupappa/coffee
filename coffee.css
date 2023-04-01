@@ -1,0 +1,17 @@
+body{
+  background-image: url("coffee images/machine.jpg");
+  background-size: contain;
+  cursor: crosshair;
+  color: white
+}
+.background{
+  background-image: url("coffee images/machine.jpg");
+  background-size: contain;
+}
+.numbers{
+  background-image: url('coffee images/machine.jpg');
+}
+.contact{
+  background-image: url('coffee images/machine.jpg');
+  background-color: white
+}
